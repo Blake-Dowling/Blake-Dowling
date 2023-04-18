@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Blake
 #### Computer Science Student at UCSC
-![Computer Science Student at UCSC](https://healthyresumes.com/wp-content/uploads/2022/10/LinkedIn-Background-Photo-47-1.webp)
-
 I enjoy learning web development and machine learning tools. I have created projects using React and Tensorflow, and I'm currently working with teams to build a React Native mobile app and a Python web app.
 
 Skills: VUE JS / REACT / JS / HTML / CSS / Tensorflow / Python / C++ / SQ
