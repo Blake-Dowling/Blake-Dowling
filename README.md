@@ -3,7 +3,9 @@
 I enjoy learning web development and data analysis tools. I have created projects using React and Tensorflow, and I'm currently working with teams to build a React Native mobile app and a Python web app.
 
 Languages: C, C++, Python, Javascript/CSS/HTML, SQL, Bash
+
 Frameworks: React.js, Node.js, Express.js, Flask
+
 Tools: Git, Linux, Docker, Tensorflow, MongoDB, SASS
 
 
