@@ -2,7 +2,10 @@
 #### Computer Science Student at UCSC
 I enjoy learning web development and data analysis tools. I have created projects using React and Tensorflow, and I'm currently working with teams to build a React Native mobile app and a Python web app.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / Tensorflow / Python / C++ / SQ
+Languages: C, C++, Python, Javascript/CSS/HTML, SQL, Bash
+Frameworks: React.js, Node.js, Express.js, Flask
+Tools: Git, Linux, Docker, Tensorflow, MongoDB, SASS
+
 
 - 🔭 I’m currently working on a travel advisor mobile app and a productivity manager web app. 
 - 🌱 I’m currently learning Vue.js, Express.js, and Tensorflow.js. 
