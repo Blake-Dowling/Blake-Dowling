@@ -15,4 +15,4 @@ Tools: Git, Linux, Docker, Tensorflow, MongoDB, SASS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Blake-Dowling)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Blake-Dowling/)  
 
-<a href="https://blake-dowling.github.io/#resume" style="color: white;">Take a look at my resume!</a>
+<a href="https://blake-dowling.github.io/#resume" style="text-decoration: underline; color: white;">Take a look at my resume!</a>
