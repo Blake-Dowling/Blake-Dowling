@@ -1,16 +1,16 @@
 ### Hi there 👋, my name is Blake
 #### Computational Models Reader at Baskin Engineering
-I enjoy learning web development and data analysis tools. I have created projects using React and Tensorflow, and I'm currently working with teams to build a React Native mobile app and a Python web app.
+Making a real-world impact is the goal with which I seek to progress my experience in software development. My long-term goal is to improve education opportunities for underpriveledged students in my home town. I am fascinated with data analysis and visualization and its applications in physics and economics.
 
-Languages: C, C++, Python, Javascript/CSS/HTML, SQL, Bash
+Languages: C, C++, Python, Java, Typescript/CSS/HTML, SQL, Bash, R, ARM/RISC-V
 
-Frameworks: React.js, Node.js, Express.js, Flask
+Frameworks: React.js, React Native, Node.js, MongoDB, Tensorflow, Embedded C
 
-Tools: Git, Linux, Docker, Tensorflow, MongoDB, SASS
+Tools: Git, Linux, Docker, SASS, REST APIs, AWS, Arduino Code IDE, ESP 32 Microcontroller
 
 
-- 🔭 I’m currently working on a travel advisor mobile app and a productivity manager web app. 
-- 🌱 I’m currently learning Vue.js, Express.js, and Tensorflow.js. 
+- 🔭 I’m currently working on a location tracking mobile app and a full stack productivity manager web app. 
+- 🌱 I’m also currently developing a smart household system using Arduino Code IDE, ESP32 Microcontrollers, and Node.js. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Blake-Dowling)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Blake-Dowling/)  
