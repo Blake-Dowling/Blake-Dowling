@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Blake
 #### Computational Models Reader at Baskin Engineering
-Making a real-world impact is the goal with which I seek to progress my experience in software development. My long-term goal is to help to improve education opportunities for underpriveledged students in my home town. I am fascinated with data analysis and visualization and its applications in physics and economics.
+Making a real-world impact is the goal with which I seek to progress my experience in software development. I am fascinated with data analysis and visualization and its applications in physics and economics.
 
 Languages: C, C++, Python, Java, Typescript/CSS/HTML, SQL, Bash, R, ARM/RISC-V
 
