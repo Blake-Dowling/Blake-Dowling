@@ -9,10 +9,6 @@ Frameworks: React.js, React Native, Node.js, MongoDB, Tensorflow, Embedded C
 Tools: Git, Linux, Docker, SASS, REST APIs, AWS, Arduino Code IDE, ESP 32 Microcontroller
 
 
-- 🔭 I’m currently working on a location tracking mobile app and a full stack productivity manager web app. 
-- 🌱 I’m also currently developing a smart household system using Arduino Code IDE, ESP32 Microcontrollers, and Node.js. 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Blake-Dowling)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Blake-Dowling/)  
 
 <a href="https://blake-dowling.github.io/#resume" style="text-decoration: underline; color: white;">Take a look at my resume!</a>
