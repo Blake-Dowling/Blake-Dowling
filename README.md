@@ -1,16 +1,1 @@
-### Hi there 👋, my name is Blake
-#### Computational Models Reader at Baskin Engineering
-Making a real-world impact is the goal with which I seek to progress my experience in software development. I am fascinated with data analysis and visualization and its applications in physics and economics.
-
-Languages: C, C++, Python, Java, Typescript/CSS/HTML, SQL, Bash, R, ARM/RISC-V
-
-Frameworks: React.js, React Native, Node.js, MongoDB, Tensorflow, Embedded C
-
-Tools: Git, Linux, Docker, SASS, REST APIs, AWS, Arduino Code IDE, ESP 32 Microcontroller
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Blake-Dowling)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Blake-Dowling/)  
-
-
-<a href="https://blake-dowling.github.io/#" style="text-decoration: underline; color: white;">My site!</a>
 
